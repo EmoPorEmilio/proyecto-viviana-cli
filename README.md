@@ -1,0 +1,1 @@
+Example starter of CLI with Rust and Ratatui.
